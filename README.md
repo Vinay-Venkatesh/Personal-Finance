@@ -1,2 +1,2 @@
 # Personal-Finance
-This repository contains python code to visualise finance data
+Python application powered by streamlit to visualise finance data
